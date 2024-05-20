@@ -2,7 +2,7 @@ import { categoryFilters, users } from "@/lib/data";
 import React from "react";
 import { FaChevronRight } from "react-icons/fa";
 import { FaChevronLeft } from "react-icons/fa";
-import Status from "@/app/_components/shared/Status";
+import Status from "./shared/Status";
 import OwnerCard from "./shared/OwnerCard";
 const Stores = () => {
   return (
